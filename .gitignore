@@ -12,3 +12,4 @@ obj/
 
 # VScodium Work
 .vscode/
+entorno_pruebas.Unittest/
